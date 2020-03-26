@@ -1,0 +1,19 @@
+body{
+    font: Normal 20px Arial;
+    box-shadow: 1px 1px 5px black;
+    padding: 15px;
+    width: 450px;
+    margin: 20px auto auto auto;
+}
+
+header#cabecalho{
+    text-align: center;
+}
+
+div#corpo{
+    text-align: center;
+}
+
+div#res{
+    text-align: center;
+}
